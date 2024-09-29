@@ -4,11 +4,11 @@
 
 如果这篇文章对你有所启发或帮助，请点一颗免费的star，感激不尽！
 
-关于我：访问[主页](ouyangyipeng.gihub.io)获取更多内容。
+关于我：访问[我的主页](ouyangyipeng.gihub.io)获取更多内容。
 
 ## >1 前置课程简述
 ### >1.1 程序设计：C语言
-浙大翁恺
+网课学习：[浙大翁恺]()
 
 ### >1.2 程序设计：C++语言
 清华开源网课
@@ -18,15 +18,15 @@
 算法导论
 
 ## >3 自学网站（重要）
-https://www.hello-algo.com/
+[你好算法 图形化算法](https://www.hello-algo.com/)：结构完整，有讨论社区，支持十数种编程语言，难度较低，适合初学者。
 
-https://sp18.datastructur.es/
+[UCB数据结构课程](https://sp18.datastructur.es/)：有讲解java内容，有相关Lab和Assignment
 
-https://visualgo.net/
+[可视化数据结构与算法](https://visualgo.net/)：
 
-https://algorithm-visualizer.org/
+[算法可视化工具](https://algorithm-visualizer.org/)
 
-https://labuladong.online/algo/
+[](https://labuladong.online/algo/)
 
 
 ## >4 网课推荐
