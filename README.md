@@ -28,6 +28,8 @@
 
 [计算机算法设计与分析](https://item.jd.com/32364503223.html)：ISBN 9787121344398
 
+*各类cs书籍：https://github.com/forthespada/CS-Books
+
 ## >3 自学网站（重要）
 [你好算法 图形化算法](https://www.hello-algo.com/)：结构完整，有讨论社区，支持十数种编程语言，难度较低，适合初学者。
 
@@ -52,4 +54,19 @@
 ### >6.2 题集
 
 
-## >7* 相关项目
+## >7* 相关github项目
+### >7.1 中文
+[数据结构与算法必会的50个代码实现](https://github.com/wangzheng0822/algo)
+
+[浙大笔记+实现+课后题解](https://github.com/callmePicacho/Data-Structres)
+
+[力扣python数据结构（机器学习）](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
+
+[数据结构与算法学习笔记](https://github.com/billryan/algorithm-exercise)：[主网站](https://algorithm.yuanbin.me/zh-hans/)
+
+### >7.2 英文
+https://github.com/rachitiitr/DataStructures-Algorithms
+
+https://github.com/mandliya/algorithms_and_data_structures
+180道习题
+
